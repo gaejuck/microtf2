@@ -693,11 +693,11 @@ methodmap Player __nullable__
 
         if (this.Team == TFTeam_Blue)
         {
-            CreateParticle(this.ClientId, "Micro_Win_Blue", 6.0);
+            CreateParticle(this.ClientId, "teleportedin_blue", 6.0);
         }
         else if (this.Team == TFTeam_Red)
         {
-            CreateParticle(this.ClientId, "Micro_Win_Red", 6.0);
+            CreateParticle(this.ClientId, "teleportedin_red", 6.0);
         }
     }
 
