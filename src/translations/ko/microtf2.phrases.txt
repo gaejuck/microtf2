@@ -76,7 +76,7 @@
 	}
 	"General_SpeedDown"
 	{
-		"ko"		"게임 진행 속도 감속!!"
+		"ko"		"게임 진행 속도 감속!"
 	}
 	"General_Failure"
 	{
@@ -261,7 +261,7 @@
 	"Minigame6_SayTheWord_CaptionFormatted"
 	{
 		"#format"		"{1:s}"
-		"ko"		"이 단어를 채팅으로 입력하세요!\n{1}"
+		"ko"		"이 단어를 입력하세요!\n{1}"
 	}
 	"Minigame6_SayTheWord_PlayerSaidWordFirst"
 	{
@@ -275,7 +275,7 @@
 	"Minigame8_CaptionFormatted"
 	{
 		"#format"		"{1:s}"
-		"ko"		"이 문제에 대한 답을 채팅으로 입력하세요!\n{1} = ?"
+		"ko"		"수식의 답을 입력하세요!\n{1} = ?"
 	}
 	"Minigame8_CorrectAnswerWas"
 	{
@@ -317,7 +317,7 @@
 	}
 	"Minigame10_KamikazeIsHere"
 	{
-		"ko"		"카미카제는 이 위치에 있습니다!"
+		"ko"		"폭탄의 위치!"
 	}
 	"Minigame10_Caption_ExplodeAsMany"
 	{
@@ -465,39 +465,39 @@
 	}
 	"Minigame26_Caption_DontLaugh"
 	{
-		"ko"		"웃지 마세요!"
+		"ko"		"헤비에게 맞지 마세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Scout"
 	{
-		"ko"		"스카웃을 공격해 웃기세요!"
+		"ko"		"스카웃을 공격하세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Soldier"
 	{
-		"ko"		"솔저를 공격해 웃기세요!"
+		"ko"		"솔저를 공격하세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Pyro"
 	{
-		"ko"		"파이로를 공격해 웃기세요!"
+		"ko"		"파이로를 공격하세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Demoman"
 	{
-		"ko"		"데모맨을 공격해 웃기세요!"
+		"ko"		"데모맨을 공격하세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Engineer"
 	{
-		"ko"		"엔지니어를 공격해 웃기세요!"
+		"ko"		"엔지니어를 공격하세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Medic"
 	{
-		"ko"		"메딕을 공격해 웃기세요!"
+		"ko"		"메딕을 공격하세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Sniper"
 	{
-		"ko"		"스나이퍼를 공격해 웃기세요!"
+		"ko"		"스나이퍼를 공격하세요!"
 	}
 	"Minigame26_Caption_MakeThemLaugh_Spy"
 	{
-		"ko"		"스파이를 공격해 웃기세요!"
+		"ko"		"스파이를 공격하세요!"
 	}
 	"Minigame27_Caption"
 	{
