@@ -2,127 +2,127 @@
 {
 	"0"
 	{
-		"Name"		"Thirdperson"
-		"Description"	"All Players play in Thirdperson prospective!"
+		"Name"		"3인칭 모드"
+		"Description"	"이번 라운드는 3인칭 모드로 고정됩니다!"
 	}
 	"1"
 	{
-		"Name"		"Adrenaline Shot"
-		"Description"	"The round starts fast! Then slows down!"
+		"Name"		"아드레날린 주사"
+		"Description"	"첫 미니게임부터 속도가 최대치로 시작하지만, 게임이 진행될수록 속도가 점점 느려집니다!"
 	}
 	"2"
 	{
-		"Name" 		"Extended Round"
-		"Description"	"30 Minigames are played before the Boss!"
+		"Name" 		"Warioware 확장버전.scx"
+		"Description"	"미니 게임을 30회 플레이 하면 보스전이 발생합니다!"
 		"BossGameThreshold"	"30"
 	}
 	"3"
 	{
-		"Name"		"Low Gravity"
-		"Description"	"Space? SPACE! SPAAAAAAAAAAAAAAACEEEEEEE!"
+		"Name"		"낮은 중력"
+		"Description"	"중력이 낮아졌습니다!"
 	}
 	"4"
 	{
-		"Name"		"Chill Pill"
-		"Description"	"No Speed Ups, All Round!"
+		"Name"		"진정제"
+		"Description"	"이번 라운드는 게임 진행 속도 가속 이벤트가 발생하지 않습니다!"
 		"DisableSpeedEvents"	"1"
 	}
 	"5"
 	{
-		"Name"		"Game Time Attack"
-		"Description"	"The round keeps speeding up after every microgame!"
+		"Name"		"게임 타임 어택"
+		"Description"	"미니 게임이 진행될 때마다, 게임 진행 속도가 점점 빨라집니다!"
 		"DisableSpeedEvents"	"1"
 	}
 	"6"
 	{
-		"Name"		"Up and Down"
-		"Description"	"Random Speeds are chosen throughout the round!"
+		"Name"		"속도 랜더마이저"
+		"Description"	"미니 게임을 플레이할 때마다, 게임 진행 속도가 무작위로 결정됩니다. 보스전도 마찬가지입니다!"
 		"DisableSpeedEvents"	"1"
 	}
 	"7"
 	{
-		"Name"		"Slow-mo"
-		"Description"	"Everything slows down!"
+		"Name"		"슬로우 모션"
+		"Description"	"미니 게임이 진행될 때마다, 게임 진행 속도가 점점 느려집니다."
 		"DisableSpeedEvents"	"1"
 		"BossGameThreshold"	"10"
 	}
 	"8"
 	{
-		"Name"		"Maths Only"
-		"Description"	"Hope you're good with maths - because that's the only microgame that will be played this round!"
+		"Name"		"수학 문제"
+		"Description"	"이번 라운드에 등장하는 미니 게임은 수학 문제로 고정됩니다!"
 		"BossGameThreshold"	"10"
 		"DisableSpeedEvents"	"1"
 	}
 	"9"
 	{
-		"Name"		"Lowest Score Wins"
-		"Description"	"The player with the lowest score wins the round!"
+		"Name"		"거꾸로 하는 날"
+		"Description"	"점수가 가장 낮은 플레이어가 이번 라운드의 승리자가 됩니다!"
 		"MultiplePlayersOnly"	"1"
 	}
 	"10"
 	{
-		"Name"		"Two Bosses"
-		"Description"	"Two Bosses are played before Game Over!"
+		"Name"		"2연속 보스전"
+		"Description"	"보스전이 1회 더 발생합니다!"
 	}
 	"11"
 	{
-		"Name"		"Team Battle"
-		"Description"	"If you win a microgame, a point is added to your team's score! The team with the most points at the end wins!"
+		"Name"		"팀전"
+		"Description"	"이번 라운드는 팀전으로 진행됩니다! 미니 게임에서 승리한 점수가 팀 점수에 합산되며, 가장 점수가 높은 팀이 승리합니다!"
 		"MultiplePlayersOnly"	"1"
 	}
 	"12"
 	{
-		"Name"		"Single Player"
-		"Description"	"Hey! Where did everyone go?"
+		"Name"		"싱글 플레이어"
+		"Description"	"이런... 다들 어디로 간 거죠?"
 		"MultiplePlayersOnly"	"1"
 	}
 	"13"
 	{
-		"Name"		"Skeletons Only"
-		"Description"	"No skin allowed on this round!"
+		"Name"		"스켈레톤"
+		"Description"	"모두의 가죽이 벗겨졌습니다!"
 		"MultiplePlayersOnly"	"1"
 	}
 	"14"
 	{
-		"Name"		"Tiny"
-		"Description"	"YOU ARE ALL TEENY TINY MEN!"
+		"Name"		"쪼꼬미"
+		"Description"	"모두 작아지고 말았습니다!"
 	}
 	"15"
 	{
-		"Name"		"Bobbleheads"
-		"Description" 	"I don't feel right..."
+		"Name"		"대두"
+		"Description" 	"전부 대두가 되고 말았습니다!"
 	}
 	"16"
 	{
-		"Name"		"Score Randomizer"
-		"Description"	"If you win a microgame, you will be rewarded a random amount of points!"
+		"Name"		"점수 랜더마이저"
+		"Description"	"미니 게임에서 승리하여 얻는 점수가 무작위로 결정됩니다!"
 		"MultiplePlayersOnly"	"1"
 	}
 	"17"
 	{
-		"Name"		"Sudden Death"
-		"Description"	"If you lose a microgame, you will be knocked out! Last player who hasn't failed wins the round!"
+		"Name"		"서든 데스"
+		"Description"	"미니 게임에서 패배하면, 이 라운드에서 영구적으로 패배합니다!  플레이어가 1명만 남으면, 그 플레이어는 즉시 승리하게 됩니다!"
 		"MultiplePlayersOnly"	"1"
 	}
 	"18"
 	{
-		"Name"		"All In"
-		"Description"	"If you lose a microgame, you will lose ALL your points!"
+		"Name"		"올인"
+		"Description"	"미니 게임에서 패배할 때마다, 점수가 0 으로 초기화됩니다!"
 		"MultiplePlayersOnly"	"1"
 	}
 	"19"
 	{
-		"Name"		"Reversed Text"
-		"Description"	"!sdrawkcab era snoitcurtsni emagorciM"
+		"Name"		"글자 반전화"
+		"Description"	"모든 텍스트가 거꾸로 반전됩니다! !요세하중집"
 	}
 	"20"
 	{
-		"Name"		"Non Stop"
-		"Description"	"There's no break in between microgames - be ready!"
+		"Name"		"논스탑 액션"
+		"Description"	"미니 게임 사이의 준비 시간이 사라집니다. 계속되는 미니 게임을 대비하세요!"
 	}
 	"21"
 	{
-		"Name"		"Team Fortress 64"
-		"Description"	"Hey! Where did my polygons go?"
+		"Name"		"팀 포트리스 64"
+		"Description"	"모두 저사양 저폴리곤 외형으로 바뀌고 말았습니다!"
 	}
 }

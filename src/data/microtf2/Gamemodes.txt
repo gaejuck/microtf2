@@ -2,7 +2,7 @@
 {
 	"0"
 	{
-		"FriendlyName"		"Wario"
+		"FriendlyName"		"와리오"
 		"selectable"		"1"
 		"AllowVoices"		"1"
 		"SysMusic_PreMinigame"
@@ -44,7 +44,7 @@
 	}
 	"1"
 	{
-		"FriendlyName"		"Mona"
+		"FriendlyName"		"모나"
 		"Selectable"		"1"
 		"AllowVoices"		"0"
 		"SysMusic_PreMinigame"
@@ -86,7 +86,7 @@
 	}
 	"2"
 	{
-		"FriendlyName"		"Orbulon"
+		"FriendlyName"		"오뷸론"
 		"Selectable"		"1"
 		"AllowVoices"		"0"
 		"SysMusic_PreMinigame"
@@ -128,7 +128,7 @@
 	}
 	"3"
 	{
-		"FriendlyName"		"Jimmy T"
+		"FriendlyName"		"지미 T."
 		"Selectable"		"1"
 		"AllowVoices"		"0"
 		"SysMusic_PreMinigame"
@@ -170,7 +170,7 @@
 	}
 	"4"
 	{
-		"FriendlyName"		"Wario"
+		"FriendlyName"		"와리오"
 		"Selectable"		"1"
 		"AllowVoices"		"1"
 		"SysMusic_PreMinigame"
@@ -212,7 +212,7 @@
 	}
 	"5"
 	{
-		"FriendlyName"		"WarioMan"
+		"FriendlyName"		"와리오맨"
 		"Selectable"		"1"
 		"AllowVoices"		"1"
 		"SysMusic_PreMinigame"
@@ -254,7 +254,7 @@
 	}
 	"99"
 	{
-		"FriendlyName"		"Special Round"
+		"FriendlyName"		"스페셜 라운드"
 		"AllowVoices"		"1"
 		"SysMusic_PreMinigame"
 		{
